@@ -289,6 +289,8 @@ h6 {
     -webkit-clip-path: inset(-1px);
     clip-path: inset(-1px);
   }
+    
+/*    comment*/
   .portfolio-item:hover img {
     -webkit-clip-path: inset(2rem);
     clip-path: inset(2rem);
